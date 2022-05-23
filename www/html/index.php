@@ -1,10 +1,10 @@
 <!DOCTYPE html>  
      <head>  
-      <title>Hello World!</title>
+      <title>Docker-DevOps Project</title>
      </head>   
 
      <body>  
-      <h1>Hello World!:v1</h1>  
+      <h1>This is simple php website to check php version and connection to mysql database</h1>  
       <p><?php echo 'We are running PHP, version: ' . phpversion(); ?></p>  
       <?  
        $database ="mydb";  
